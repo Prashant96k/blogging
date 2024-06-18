@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Java"
+		},
+		{
+			"path": "../Java/Practice"
+		},
+		{
+			"path": "../DataStructure"
+		},
+		{
+			"path": "../../Html"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
